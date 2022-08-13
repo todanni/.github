@@ -19,7 +19,7 @@
   </a>
 
   <p align="center">
-    A microservice that handles all task operations for ToDanni.
+    A collaborative task manager created with the purpose of learning different technologies. 
     <br />
     <a href="https://github.com/danni-popova/toDanni"><strong>Explore the docs »</strong></a>
     <br />
