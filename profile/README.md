@@ -21,7 +21,7 @@
   <p align="center">
     A collaborative task manager created with the purpose of learning different technologies. 
     <br />
-    <a href="https://github.com/danni-popova/toDanni"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danni-popova/toDanni"><strong>Visit the website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/danni-popova/toDanni">View Demo</a>
