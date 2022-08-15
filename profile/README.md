@@ -24,7 +24,7 @@
     <a href="https://github.com/danni-popova/toDanni"><strong>Visit the website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danni-popova/toDanni">View Demo</a>
+    <a href="https://todanni.com">View Demo</a>
     ·
     <a href="https://github.com/danni-popova/toDanni/issues">Report Bug</a>
     ·
