@@ -19,7 +19,7 @@
   </a>
 
   <p align="center">
-    A collaborative task manager created with the purpose of learning different technologies. 
+    A collection of tools to manage everyday tasks.
     <br />
     <a href="https://github.com/danni-popova/toDanni"><strong>Visit the website »</strong></a>
     <br />
